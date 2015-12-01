@@ -1,14 +1,28 @@
-layout_spectrum: 1
-color:
-  saturation: 0.4919589
-  brandStrength: 1
-  lightness: 0.7584082
-  brandColors:
-    - '#FFFFFF'
-    - '#3B3B3B'
-    - '#FF2927'
-    - '#9A9A9A'
-    - '#FF7576'
-  rhythmicContrast: 0.2723404
-typography_spectrum: 1
 name: 'BRD LLC. '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#3c3c3c'
+    - '#0d0d0d'
+    - '#ff2929'
+    - '#989898'
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.5625
+  rhythmicContrast: 0.25
+purpose: []
