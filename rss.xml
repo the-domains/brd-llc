@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BRD LLC. ]]></title>
-        <description><![CDATA[BRD LLC. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Micro Molding at it's Smallest]]></title>
+        <description><![CDATA[Micro Molding at it's Smallest]]></description>
+        <link>https://thegrid.ai/brd-llc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 01:36:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Dec 2015 01:45:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brd-llc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test 1]]></title>
             <description><![CDATA[<article><h1>Test 1</h1><p>Jon Baklund test 1</p></article>]]></description>
-            <link>undefinedtest-1/index.html</link>
+            <link>https://thegrid.ai/brd-llc/test-1/index.html</link>
             <guid isPermaLink="false">b5ca0330-37c0-4d2f-838a-aa99c4107798</guid>
-            <pubDate>Tue, 01 Dec 2015 01:36:41 GMT</pubDate>
+            <pubDate>Tue, 01 Dec 2015 01:45:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
