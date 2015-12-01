@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4919589
+  brandStrength: 1
+  lightness: 0.7584082
+  brandColors:
+    - '#FFFFFF'
+    - '#3B3B3B'
+    - '#FF2927'
+    - '#9A9A9A'
+    - '#FF7576'
+  rhythmicContrast: 0.2723404
+typography_spectrum: 1
+name: 'BRD LLC. '
